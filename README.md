@@ -26,7 +26,7 @@
 
 ## 3. desenvolvimento do novo logo
 
-&nbsp;&nbsp;&nbsp;&nbsp;Com base nos pontos mencionados na [seção 2](#seção-2-identificando-pontos-de-melhoria-no-logo-atual) desta documentação, decidimos utilizar o <a href="https://www.figma.com" target="_blank">Figma</a> como ferramenta para o desenvolvimento do novo logotipo. O Figma foi escolhido por sua robustez para a criação de designs, além da organização dos mesmos, o que nos permitiu desenvolver o design de forma eficiente.
+&nbsp;&nbsp;&nbsp;&nbsp;Com base nos pontos mencionados na [seção 2](#2-identificando-pontos-de-melhoria-no-logo-atual) desta documentação, decidimos utilizar o <a href="https://www.figma.com" target="_blank">Figma</a> como ferramenta para o desenvolvimento do novo logotipo. O Figma foi escolhido por sua robustez para a criação de designs, além da organização dos mesmos, o que nos permitiu desenvolver o design de forma eficiente.
 
 &nbsp;&nbsp;&nbsp;&nbsp;Nosso principal objetivo era harmonizar melhor o logotipo da Inteli Júnior com o do Inteli, minimizando a complexidade do design original. Seguindo as práticas recomendadas por *Steve Krug* e *David Airey* sobre usabilidade e identidade visual, removemos várias das conexões e bolinhas presentes no hexágono e, ao mesmo tempo, buscamos simplificar a tipografia, a tornando mais equilibrada e integrada ao logotipo.
 
@@ -38,7 +38,7 @@
   
 <sub>Figura 02 - Proposta de reformulação do logotipo da Inteli Júnior </sub>
 
-<img src="assets/novo_logo_inteli_junior.svg" width="70%">
+<img src="assets/novo_logo_inteli_junior.svg" width="55%">
 
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
@@ -120,7 +120,7 @@
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;A versão em Figma pode ser acessada <a href="https://www.figma.com" target="_blank">clicando aqui</a>. Ela inclui as versões do logo em fundo transparentes Sinta-se à vontade para alterar e testar suas ideias na proposta de logo. Recomendamos criar uma cópia sua para alterações, mas não se preocupe, temos uma cópia de segurança! Então, edite o logo como quiser.
+&nbsp;&nbsp;&nbsp;&nbsp;A versão em Figma pode ser acessada <a href="https://www.figma.com/design/3LTvxaDB3UQL7k4pBnGrCm/Untitled?node-id=0-1&t=I3gc9glwXL9aL1TO-1" target="_blank">clicando aqui</a>. Ela inclui as versões do logo em fundo transparentes Sinta-se à vontade para alterar e testar suas ideias na proposta de logo. Recomendamos criar uma cópia sua para alterações, mas não se preocupe, temos uma cópia de segurança! Então, edite o logo como quiser.
 
 ## 3. conceito do novo logo
 
