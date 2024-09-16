@@ -2,7 +2,7 @@
   
 <sub>Figura 01 - Banner do autor</sub>
 
-<img src="assets/banner.svg" width="100%">
+<img src="assets/banner.svg" width="85%">
 
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
