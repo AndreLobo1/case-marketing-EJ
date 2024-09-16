@@ -1,5 +1,7 @@
 <div align="center">
-<sub>Figura 01 - Banner do autorr</sub>
+  
+<sub>Figura 01 - Banner do autor</sub>
+
 <img src="assets/banner.svg" width="100%">
 
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
@@ -33,8 +35,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Abaixo, apresentamos a proposta de reformulação do logotipo da Inteli Júnior.
 
 <div align="center">
+  
 <sub>Figura 02 - Proposta de reformulação do logotipo da Inteli Júnior </sub>
-<img src="assets/novo_logo_inteli_junior.svg" width="100%">
+
+<img src="assets/novo_logo_inteli_junior.svg" width="70%">
 
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
@@ -43,7 +47,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Aqui está uma análise da proposta de reformulação do logotipo, indicando os principais pontos que queríamos representar.
 
 <div align="center">
+  
 <sub>Figura 03 - Análise dos principais elementos do logotipo reformulado</sub>
+
 <img src="assets/analise_elementos_logo.svg" width="100%">
 
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
@@ -55,47 +61,61 @@
 <div align="center">
 
 <sub>Figura 04 - Logotipo em fundo branco</sub><br>
-<img src="assets/logo_fundo_branco.svg" width="15%"><br>
-<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
 
-<sub>Figura 05 - Logotipo em fundo preto com o nome abaixo</sub><br>
-<img src="assets/logo_fundo_preto_nome_abaixo.svg" width="15%"><br>
-<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
+<img src="assets/logo_fundo_branco.svg" width="40%">
 
-<sub>Figura 06 - Logotipo em fundo branco com o nome abaixo</sub><br>
-<img src="assets/logo_fundo_branco_nome_abaixo.svg" width="15%"><br>
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
+
+<sub>Figura 05 - Logotipo em fundo preto com o nome abaixo</sub>
+
+<img src="assets/logo_fundo_preto_nome_abaixo.svg" width="40%">
+
+<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
+
+<sub>Figura 06 - Logotipo em fundo branco com o nome abaixo</sub>
+
+<img src="assets/logo_fundo_branco_nome_abaixo.svg" width="40%">
+
+<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
 <sub>Figura 07 - Logotipo monocromático negativo</sub><br>
-<img src="assets/logo_monocromatico_negativo.svg" width="15%"><br>
+
+<img src="assets/logo_monocromatico_negativo.svg" width="40%">
+
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
 
 <sub>Figura 08 - Logotipo monocromático positivo</sub><br>
-<img src="assets/logo_monocromatico_positivo.svg" width="15%"><br>
-<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
 
-<sub>Figura 09 - Logotipo monocromático negativo com o nome abaixo</sub><br>
-<img src="assets/logo_monocromatico_negativo_nome_abaixo.svg" width="15%"><br>
-<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
+<img src="assets/logo_monocromatico_positivo.svg" width="40%">
 
-<sub>Figura 10 - Logotipo monocromático positivo com o nome abaixo</sub><br>
-<img src="assets/logo_monocromatico_positivo_nome_abaixo.svg" width="15%"><br>
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
 
-<sub>Figura 11 - Logotipo em fundo preto com o nome à direita</sub><br>
-<img src="assets/logo_fundo_preto_nome_direita.svg" width="15%"><br>
+
+<sub>Figura 09 - Logotipo monocromático negativo com o nome abaixo</sub>
+
+<img src="assets/logo_monocromatico_negativo_nome_abaixo.svg" width="40%">
+
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
-<br><br>
 
-<sub>Figura 12 - Logotipo em fundo branco com o nome à direita</sub><br>
-<img src="assets/logo_fundo_branco_nome_direita.svg" width="15%"><br>
+
+<sub>Figura 10 - Logotipo monocromático positivo com o nome abaixo</sub>
+
+<img src="assets/logo_monocromatico_positivo_nome_abaixo.svg" width="40%">
+
+<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
+
+
+<sub>Figura 11 - Logotipo em fundo preto com o nome à direita</sub>
+
+<img src="assets/logo_fundo_preto_nome_direita.svg" width="40%">
+
+<sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
+
+
+<sub>Figura 12 - Logotipo em fundo branco com o nome à direita</sub>
+
+<img src="assets/logo_fundo_branco_nome_direita.svg" width="40%">
+
 <sup>Autor: André Eduardo Lobo de Paula - Candidato a Inteli Junior</sup>
 
 </div>
